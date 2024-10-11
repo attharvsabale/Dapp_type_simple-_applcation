@@ -1,5 +1,4 @@
-
-#Solana Wallet Integration
+Solana Wallet Integration
 🚀 Welcome to My Solana Wallet Integration Project! 🎉
 
 This project allows users to interact with the Solana blockchain by sending tokens, requesting airdrops, and signing messages.
